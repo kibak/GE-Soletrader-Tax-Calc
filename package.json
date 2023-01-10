@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "BUILD_PATH='./docs' PUBLIC_URL='/GE-Soletrader-Tax-Calc/' react-scripts build"
+    "build": "BUILD_PATH='./docs' PUBLIC_URL='/ge-soletrader-tax-calc/' react-scripts build"
   },
   "eslintConfig": {
     "extends": [
