@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ge-soletrader-tax-calc/static/css/main.dc1b7e18.css",
-    "main.js": "/ge-soletrader-tax-calc/static/js/main.a7b9dfaa.js",
+    "main.js": "/ge-soletrader-tax-calc/static/js/main.cf3fd075.js",
     "index.html": "/ge-soletrader-tax-calc/index.html",
     "main.dc1b7e18.css.map": "/ge-soletrader-tax-calc/static/css/main.dc1b7e18.css.map",
-    "main.a7b9dfaa.js.map": "/ge-soletrader-tax-calc/static/js/main.a7b9dfaa.js.map"
+    "main.cf3fd075.js.map": "/ge-soletrader-tax-calc/static/js/main.cf3fd075.js.map"
   },
   "entrypoints": [
     "static/css/main.dc1b7e18.css",
-    "static/js/main.a7b9dfaa.js"
+    "static/js/main.cf3fd075.js"
   ]
 }

@@ -50,7 +50,7 @@ function App() {
 
         patchValues(filteredData).then(() => {
           filteredData.sort((a,b) => {
-            return a.Date < b.Date ? -1 : 1;
+            return a.date < b.date ? -1 : 1;
           }).map((d) => {
             const amountGel = (Number(d.Amount) * Number(d.rate)).toFixed(2);
             if (! monthIncome[d.month]) monthIncome[d.month] = 0;
