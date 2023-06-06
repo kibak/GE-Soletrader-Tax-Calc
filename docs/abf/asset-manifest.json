@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ge-soletrader-tax-calc/abf/static/css/main.dc1b7e18.css",
+    "main.js": "/ge-soletrader-tax-calc/abf/static/js/main.f5e63923.js",
+    "index.html": "/ge-soletrader-tax-calc/abf/index.html",
+    "main.dc1b7e18.css.map": "/ge-soletrader-tax-calc/abf/static/css/main.dc1b7e18.css.map",
+    "main.f5e63923.js.map": "/ge-soletrader-tax-calc/abf/static/js/main.f5e63923.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc1b7e18.css",
+    "static/js/main.f5e63923.js"
+  ]
+}
